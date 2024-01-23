@@ -1,0 +1,7 @@
+"ID","Title","Created By","Created On","Estimate","Forecast","Priority","References","Section","Section Depth","Section Description","Suite","Suite ID","Type","Updated By","Updated On"
+"C20","Dodanie zwierzaka","Kamil Piątek","1/18/2024 7:01 PM","","","Medium","","Postman TEST","0","","Master","S3","Functional","Kamil Piątek","1/18/2024 7:28 PM"
+"C21","Aktualizacja Zwierzaka","Kamil Piątek","1/18/2024 7:01 PM","","","Medium","","Postman TEST","0","","Master","S3","Functional","Kamil Piątek","1/18/2024 7:29 PM"
+"C22","Sprawdzenie dostępnych zwierzaków","Kamil Piątek","1/18/2024 7:02 PM","","","Medium","","Postman TEST","0","","Master","S3","Other","Kamil Piątek","1/18/2024 7:23 PM"
+"C23","Znalezienie zwierzaka dodanego","Kamil Piątek","1/18/2024 7:02 PM","","","Medium","","Postman TEST","0","","Master","S3","Functional","Kamil Piątek","1/18/2024 7:29 PM"
+"C24","Usunięcie zwierzaka","Kamil Piątek","1/18/2024 7:02 PM","","","Medium","","Postman TEST","0","","Master","S3","Functional","Kamil Piątek","1/18/2024 7:29 PM"
+"C25","Sprawdzenie usunięcia","Kamil Piątek","1/18/2024 7:03 PM","","","Medium","","Postman TEST","0","","Master","S3","Functional","Kamil Piątek","1/18/2024 7:30 PM"

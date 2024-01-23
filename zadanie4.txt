@@ -1,0 +1,12 @@
+zadanie 4 robimy do końca zajęć, o 21 zakończę wydarzenie
+stworzyć projekt w Testrail dla guru99
+wykonać testy eksploracyjne dla aplikacji max: 45 min
+ (link: https://demo.guru99.com/v4/)  dodać  i opisać sesje eksploracyjna w Testrail
+przygotować min 6 przypadków testowych funkcjonalnych  na podstawie sesji eksploracyjnej  dla aplikacji guru99 oraz wykonać je
+przygotować min 1 przypadek testowy niefunkcjonalny
+połączyć Testrail  z Jira za pomocą instrukcji  rozdział w dokumencie pdf
+"JIRA - Testrail integracja" (pod krokami są prtsc) lub skorzystać z filmiku
+wygenerować raport w Testrail
+zgłosić błąd w Jira dla danych przypadków testowych w statusie fail
+nagrać wybrany test w SeleniumIDE
+zidentyfikować ryzyka projektowe i produktowe dla Guru99

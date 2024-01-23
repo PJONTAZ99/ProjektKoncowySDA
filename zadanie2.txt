@@ -1,0 +1,17 @@
+Zadanie 2, praca w grupach
+grupy zadaniem jest stworzenie przypadków testowych do przypisanych jej (grupie) przedmiotów.
+Jaki to jest dokładnie przedmiot/model itp. decyduje grupa (proszę o opisać w .xlsx)
+należy zdecydować, który przedmiot będzie testowany zgodnie z doświadczeniem, a który bazujący na dokumentacji (wtedy należy dołączyć dokumentacje)
+dodatkowo dla każdego przedmiotu należy stworzyć min.2 przypadki testowe jeden test funkcjonalny i jeden test niefunkcjonalny.
+przypadki testowe mogą zostać spisane w udostępnionym pliku/formatce.
+***przykład***
+Grupa X kubek, termometr
+kubek zostanie przetestowany eksploracyjne/doświadczeniem
+TC1 test funkcjonalny
+TC2 test niefunkcjonalny
+termometr, bazując na dokumentacji (link do np. Instrukcji obsługi termometru)
+TC1 test funkcjonalny
+TC2 test niefunkcjonalny
+
+GRUPA :two:
+wiadro, kaloryfer, www.onet.pl, kwadrat (f. Geometryczna)

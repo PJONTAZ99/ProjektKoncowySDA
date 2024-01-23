@@ -1,0 +1,5 @@
+zadanie 3 praca w grupach do godziny 19:30
+Należy:
+ przeanalizować dokumentacje do aplikacji webowej Guru99, znaleźć w niej błędy i odnotować je w Excelu lub jako błędy w aplikacji Jira (nie otwieramy strony www to zadanie robimy tylko na podstawie dokumentacja)
+oraz
+rozpisać  min 5 przypadków testowych  na podstawie dokumentacji i spisać je Testrail (cały przypadek, (nie tylko tutuly) z preconditions,  steps, expectresult, result)

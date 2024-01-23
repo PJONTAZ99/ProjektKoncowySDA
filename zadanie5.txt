@@ -1,0 +1,11 @@
+przetestować nr. 1 i lub  nr 2 API (z listy poniżej)
+(stworzyć kolekcje w Postmanie  ze wszystkimi poprawnymi requestami ) oraz o ile starczy czasu zapoznać się z jednym innym dodatkowymi api (np o numerze  3, 4, 5, 6)  i wykonać minimum po 2 requesty dla nich,
+zapoznać się z dokumentacją do wybranego API
+przetestować je za pomocą Postmana
+zapisać przypadek testowy w Testrail i o ile zostanie znaleziony błąd zaraportować go w jira
+https://restful-booker.herokuapp.com/
+https://petstore.swagger.io/?_ga=2.166840766.1007213295.1590004620-467914185.1590004620#/
+https://pokeapi.co/
+https://www.omdbapi.com/
+https://developer.marvel.com/
+https://swapi.dev/
